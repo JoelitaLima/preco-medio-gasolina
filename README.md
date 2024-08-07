@@ -17,19 +17,3 @@ A atividade consiste nas seguintes etapas:
 ## Preço Médio da Gasolina em São Paulo - Julho 2021
 
 Este repositório contém dados sobre o preço médio de venda da gasolina na cidade de São Paulo durante os primeiros 10 dias de julho de 2021. Os dados foram obtidos da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP).
-
-## Estrutura do Repositório
-
-- `gasolina.csv`: Arquivo CSV contendo os dados de preço médio da gasolina.
-- `gasolina.py`: Script Python para gerar o gráfico de linha dos preços.
-- `gasolina.png`: Gráfico de linha mostrando a variação dos preços.
-
-## Como Usar
-
-1. Faça o download dos arquivos do repositório.
-2. Execute o script `gasolina.py` para gerar os gráficos.
-3. Analise os dados e os gráficos conforme necessário para seu projeto ou pesquisa.
-
-## Fonte dos Dados
-
-Os dados foram coletados pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP).
